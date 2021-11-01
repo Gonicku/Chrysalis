@@ -8,4 +8,4 @@ You can test out my game [here!]()
 
 ## Prototype
 
-Play my prototype [here!](Prototype/Chrysalis (1).html)
+Play my prototype [here!](Prototypes/Chrysalis (1).html)
