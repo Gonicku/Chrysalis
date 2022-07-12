@@ -4,7 +4,7 @@ This is the website for my Twine game, Chrysalis, for the IASC 1P04 course at Br
 
 ## Playtest
 
-You can test out my game [here!]()
+You can test out my game [here!](Chrysalis(2).html)
 
 ## Prototype
 
